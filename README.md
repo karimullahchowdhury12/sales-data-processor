@@ -25,10 +25,14 @@ The system was developed to handle two distinct scenarios:
 ```text
 .
 ├── main.py              # Core logic and processing engine
-├── data/                # Data directory
-│   ├── part_1/          # Base scenario JSON files
-│   └── part_2/          # Stacked discount JSON files
-├── requirements.txt     # Dependency list (if any)
+├── TEST Part 1/
+|   ├── discounts.json
+|   ├── products.json
+|   ├── orders.json
+├── TEST Part 2/
+|   ├── discounts.json
+|   ├── products.json
+|   ├── orders.json
 └── README.md
 ```
 ## 🚀 Installation & Usage
