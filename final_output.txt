@@ -1,0 +1,14 @@
+--- PART 1 OUTPUT ---
+Total Sales Before Discount:      $3,888.80
+Total Sales After Discount:       $3,205.13
+Total Money Lost via Discounts:   $683.67
+Avg Discount per Customer:        14.00%
+------------------------------
+
+--- PART 2 OUTPUT ---
+Total Sales Before Discount:      $7,126.60
+Total Sales After Discount:       $6,033.26
+Total Money Lost via Discounts:   $1,093.34
+Avg Discount per Customer:        18.33%
+------------------------------
+
